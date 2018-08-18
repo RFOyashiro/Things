@@ -1,0 +1,181 @@
+you tried to inflict :
+- 3 damage
+- 1 damage
+- 3 damage
+- 1 damage
+- 3 damage
+- 1 damage
+to your opponent with 8 climax for 25 cards in his deck.
+
+
+Chances to deal all the damage : 0.51223%
+Chances to deal no damage      : 1.1936%
+
+Out of 1000000 tries your opponent took the 1° attack 246557 times
+while canceling 753443 times
+Chances to deal damage with this attack : 24.656%
+
+
+Your opponent canceled : 
+320878 times on 1
+227168 times on 2
+158011 times on 3
+ 42190 times on 4
+  5196 times on 5
+
+428782 times an attack for 3 damage
+     0 times an attack for 4 damage
+324661 times an attack for 5 damage
+
+You triggered :
+607334 times +0 souls
+321499 times +1 souls
+ 71167 times +2 souls
+
+You dealed :
+753443 times 0 damage (75.344%)
+178552 times 3 damage (17.855%)
+ 59824 times 4 damage (5.9824%)
+  8181 times 5 damage (0.8181%)
+
+
+
+Out of 753443 tries your opponent took the 2° attack 524826 times
+while canceling 228617 times
+Chances to deal damage with this attack : 69.657%
+
+
+Your opponent canceled : 
+228617 times on 1
+     0 times on 2
+     0 times on 3
+
+228617 times an attack for 1 damage
+     0 times an attack for 2 damage
+     0 times an attack for 3 damage
+
+You triggered :
+753443 times +0 souls
+     0 times +1 souls
+     0 times +2 souls
+
+You dealed :
+228617 times 0 damage (30.343%)
+524826 times 1 damage (69.657%)
+     0 times 2 damage (0%)
+     0 times 3 damage (0%)
+
+
+
+Out of 1000000 tries your opponent took the 3° attack 248725 times
+while canceling 751275 times
+Chances to deal damage with this attack : 24.872%
+
+
+Your opponent canceled : 
+320122 times on 1
+225384 times on 2
+158088 times on 3
+ 42562 times on 4
+  5119 times on 5
+
+426866 times an attack for 3 damage
+     0 times an attack for 4 damage
+324409 times an attack for 5 damage
+
+You triggered :
+606588 times +0 souls
+321851 times +1 souls
+ 71561 times +2 souls
+
+You dealed :
+751275 times 0 damage (75.127%)
+179722 times 3 damage (17.972%)
+ 60620 times 4 damage (6.062%)
+  8383 times 5 damage (0.8383%)
+
+
+
+Out of 751275 tries your opponent took the 4° attack 523212 times
+while canceling 228063 times
+Chances to deal damage with this attack : 69.643%
+
+
+Your opponent canceled : 
+228063 times on 1
+     0 times on 2
+     0 times on 3
+
+228063 times an attack for 1 damage
+     0 times an attack for 2 damage
+     0 times an attack for 3 damage
+
+You triggered :
+751275 times +0 souls
+     0 times +1 souls
+     0 times +2 souls
+
+You dealed :
+228063 times 0 damage (30.357%)
+523212 times 1 damage (69.643%)
+     0 times 2 damage (0%)
+     0 times 3 damage (0%)
+
+
+
+Out of 1000000 tries your opponent took the 5° attack 247454 times
+while canceling 752546 times
+Chances to deal damage with this attack : 24.745%
+
+
+Your opponent canceled : 
+319786 times on 1
+227489 times on 2
+157913 times on 3
+ 42235 times on 4
+  5123 times on 5
+
+427721 times an attack for 3 damage
+     0 times an attack for 4 damage
+324825 times an attack for 5 damage
+
+You triggered :
+606528 times +0 souls
+321995 times +1 souls
+ 71477 times +2 souls
+
+You dealed :
+752546 times 0 damage (75.255%)
+178807 times 3 damage (17.881%)
+ 60366 times 4 damage (6.0366%)
+  8281 times 5 damage (0.8281%)
+
+
+
+Out of 752546 tries your opponent took the 6° attack 523626 times
+while canceling 228920 times
+Chances to deal damage with this attack : 69.581%
+
+
+Your opponent canceled : 
+228920 times on 1
+     0 times on 2
+     0 times on 3
+
+228920 times an attack for 1 damage
+     0 times an attack for 2 damage
+     0 times an attack for 3 damage
+
+You triggered :
+752546 times +0 souls
+     0 times +1 souls
+     0 times +2 souls
+
+You dealed :
+228920 times 0 damage (30.419%)
+523626 times 1 damage (69.581%)
+     0 times 2 damage (0%)
+     0 times 3 damage (0%)
+
+
+
